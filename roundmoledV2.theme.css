@@ -251,13 +251,7 @@
   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
 }
 
-/* Emoji picker big and small */
 
-.contentWrapper-3vHNP2 {
-  background-color: var(--dark-secondary);
-  border-radius: 20px;
-  border: solid var(--popout-activeborders);
-}
 
 .unicodeShortcut-3N8oDe,
 .wrapper-1NNaWG,
