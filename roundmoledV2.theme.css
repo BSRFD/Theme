@@ -240,6 +240,14 @@
   border-left: 4px solid var(--brand-experiment);
 }
 
+/* Emoji picker big and small */
+
+.contentWrapper-3vHNP2 {
+  background-color: var(--dark-secondary);
+  border-radius: 20px;
+  border: solid var(--popout-activeborders);
+}
+
 .embedFooterText-2Mc7H9 {
   font-size: 0.85rem;
   line-height: 1rem;
